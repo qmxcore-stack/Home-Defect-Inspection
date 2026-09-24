@@ -1,0 +1,6 @@
+{
+  "name": "DefectInspect Malaysia",
+  "description": "Landing page for home and building defect inspection services in Malaysia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
